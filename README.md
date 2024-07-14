@@ -1,2 +1,2 @@
 # php-design-patterns
-Collection Gang Of Four design patterns using PHP
+Implementing Gang of Four Design Patterns in PHP: A Comprehensive Collection
