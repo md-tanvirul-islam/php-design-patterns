@@ -1,5 +1,5 @@
 <?php
-namespace Tanvir\StrategyPattern;
+namespace App\DesignPatterns\StrategyPattern\V1;
 
 class RedHeadDuck extends Duck{
     public function display(){

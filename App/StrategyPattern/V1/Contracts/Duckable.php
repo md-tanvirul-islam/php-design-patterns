@@ -1,6 +1,6 @@
 <?php
 
-namespace Tanvir\StrategyPattern\contracts;
+namespace App\DesignPatterns\StrategyPattern\V1\Contracts;
 
 interface Duckable
 {

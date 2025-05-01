@@ -1,7 +1,5 @@
 <?php
-namespace Tanvir\StrategyPattern;
-
-use Tanvir\StrategyPattern\Duck;
+namespace App\DesignPatterns\StrategyPattern\V1;
 
 class MallardDuck extends Duck{
     public function display(){

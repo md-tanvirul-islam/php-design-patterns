@@ -1,8 +1,8 @@
 <?php 
 
-namespace Tanvir\StrategyPattern;
+namespace App\DesignPatterns\StrategyPattern\V1;
 
-use Tanvir\StrategyPattern\contracts\Duckable;
+use App\DesignPatterns\StrategyPattern\V1\Contracts\Duckable;
 
 class Duck implements Duckable{
     public function display(){

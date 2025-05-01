@@ -1,5 +1,5 @@
 <?php
-namespace Tanvir\StrategyPattern;
+namespace App\DesignPatterns\StrategyPattern\V1;
 
 class PekinDuck extends Duck {
     public function display(){

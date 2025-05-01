@@ -1,9 +1,10 @@
 <?php
-require_once __DIR__ . '../../vendor/autoload.php';
 
-use Tanvir\StrategyPattern\MallardDuck;
-use Tanvir\StrategyPattern\RedHeadDuck;
-use Tanvir\StrategyPattern\RubberDuck;
+use App\DesignPatterns\StrategyPattern\V1\MallardDuck;
+use App\DesignPatterns\StrategyPattern\V1\RedHeadDuck;
+use App\DesignPatterns\StrategyPattern\V1\RubberDuck;
+
+require_once __DIR__ . '/../../vendor/autoload.php';
 
 // $duck =  new Duck;
 // $duck->fly();

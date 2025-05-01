@@ -1,8 +1,10 @@
 {
-    "name": "tanvir/strategy-pattern",
+    "name": "tanvir/design-patterns",
+    "description": "It is a playground to learn PHP Design Patterns",
+    "type": "project",
     "autoload": {
         "psr-4": {
-            "Tanvir\\StrategyPattern\\": "src/"
+            "App\\DesignPatterns\\": "App/"
         }
     },
     "authors": [

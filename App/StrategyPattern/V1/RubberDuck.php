@@ -1,5 +1,5 @@
 <?php
-namespace Tanvir\StrategyPattern;
+namespace App\DesignPatterns\StrategyPattern\V1;
 
 class RubberDuck extends Duck{
     public function display(){
